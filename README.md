@@ -55,7 +55,7 @@ const daiwik = {
 ```
 <h2 align="center">What I'm Learning</h2>
 
-```
+```jsß
 const learning = {
   core: ["JavaScript", "React", "TypeScript"],
   exploring: ["AI Engineering 🤖", "System Design"],
