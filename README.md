@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi! I'm Daiwik Priyaranj!</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=460&height=30&lines=12th%20Grade%20-%20Aspiring%20to%20be%20IITian%3BLearning%20to%20code%2C%20one%20bug%20at%20a%20time%20%F0%9F%90%9B%3BBuilding%20cool%20stuff%20with%20Python%20%26%20JavaScript" alt="Typing SVG" />
-</div>
-
 <p align="center">I'm a 12th-grade student with a passion for web development and technology. I enjoy learning new coding skills and building responsive, user-friendly websites. My goal is to grow as a developer and create impactful digital experiences.</p>
 
 <p align="center">
