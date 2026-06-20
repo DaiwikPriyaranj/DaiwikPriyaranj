@@ -36,7 +36,7 @@
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=3&alignment=center&bgSolidColor=FF6B6B&bgStartColor=545454&bgEndColor=FFFFFF&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-<h2 align="center">What I'm Learning</h2>
+<h2 align="center">What I do</h2>
 
 🔭 Currently working on: Personal Portfolio
 
