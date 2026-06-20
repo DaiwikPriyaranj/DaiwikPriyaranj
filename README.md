@@ -10,9 +10,31 @@
 
 <p align="center">I'm a 12th-grade student with a passion for web development and technology. I enjoy learning new coding skills and building responsive, user-friendly websites. My goal is to grow as a developer and create impactful digital experiences.</p>
 
-<div align="center">
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soon) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daiwikpriyaranj) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@soon) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soon) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiwikmp09@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](soon)
-</div>
+<p align="center">
+  <a href="https://twitter.com/soon">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/daiwikpriyaranj">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/@soon">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/soon">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="mailto:daiwikmp09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="soon">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=3&alignment=center&bgSolidColor=FF6B6B&bgStartColor=545454&bgEndColor=FFFFFF&bgGradientDirection=horizontal" alt="Divider" />
