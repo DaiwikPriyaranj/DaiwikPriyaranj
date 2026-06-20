@@ -4,7 +4,9 @@
 
 <h1 align="center">Hi! I'm Daiwik Priyaranj!</h1>
 
-<p align="center">I'm a 12th-grade student with a passion for web development and technology. I enjoy learning new coding skills and building responsive, user-friendly websites. My goal is to grow as a developer and create impactful digital experiences.</p>
+<p align="center">
+I’m a 12th-grade student passionate about web development and technology, currently on the path to becoming a full-stack developer. I enjoy learning how both frontend and backend systems work together to build complete, responsive, and user-friendly web applications. I’m focused on strengthening my skills in JavaScript, React, and TypeScript, while gradually exploring backend development and APIs. My goal is to grow into a full-stack developer and build impactful digital experiences from end to end.
+</p>ß
 
 <div align="center">
 
@@ -53,12 +55,15 @@ const daiwik = {
 ```
 <h2 align="center">What I'm Learning</h2>
 
+```
 const learning = {
   core: ["JavaScript", "React", "TypeScript"],
   exploring: ["AI Engineering 🤖", "System Design"],
   tools: ["VS Code", "Git", "GitHub"],
+  building: ["Portfolio Website"],
+  goals: ["Full Stack Development", "Backend (Node.js + Express)"],
 };
-
+```
 
 <h2 align="center">Proficent Tools</h2>
 
