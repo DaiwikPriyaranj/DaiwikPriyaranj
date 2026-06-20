@@ -82,7 +82,7 @@ const learning = {
 </div>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lkmxgyxucijnk5qlq5z3yrxvye&cover_image=true&theme=novatorem" />
 </p>
  
 ![MADE WITH](https://img.shields.io/badge/MADE%20WITH-LOVE-red?style=for-the-badge)
