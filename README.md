@@ -80,10 +80,9 @@ const learning = {
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=3&alignment=center&bgSolidColor=FF6B6B&bgStartColor=404040&bgEndColor=FFFFFF&bgGradientDirection=horizontal" alt="Divider" />
 </div>
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daiwikpriyaranj&show_icons=true&theme=tokyonight" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify" />
 </p>
  
 ![MADE WITH](https://img.shields.io/badge/MADE%20WITH-LOVE-red?style=for-the-badge)
