@@ -81,12 +81,4 @@ const learning = {
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=3&alignment=center&bgSolidColor=FF6B6B&bgStartColor=404040&bgEndColor=FFFFFF&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=tokyonight&quote=Education+is+the+passport+to+the+future%2C+for+tomorrow+belongs+to+those+who+prepare+for+it+today.&author=Malcolm+X&textAlign=center&authorAlign=center" alt="Quote" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=daiwikpriyaranj&color=red&style=flat&label=Profile%20Views" alt="Profile Views" />
-</div>
-
 ![MADE WITH](https://img.shields.io/badge/MADE%20WITH-LOVE-red?style=for-the-badge)
