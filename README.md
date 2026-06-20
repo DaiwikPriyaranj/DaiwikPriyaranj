@@ -1,13 +1,56 @@
-<h1 align="center">Hi 👋, I'm Daiwik Priyaranj</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<div align="center">
+  <img src="https://github.com/github.png" width="120" height="120" style="border-radius: 50%;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daiwikpriyaranj&label=Profile%20views&color=0e75b6&style=flat" alt="daiwikpriyaranj" /> </p>
+<h1 align="center">Hi! I'm Daiwik Priyaranj!</h1>
 
-- 📫 How to reach me **daiwikmp09@gmail.com**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=460&height=30&lines=12th%20Grade%20-%20Aspiring%20to%20be%20IITian%3BLearning%20to%20code%2C%20one%20bug%20at%20a%20time%20%F0%9F%90%9B%3BBuilding%20cool%20stuff%20with%20Python%20%26%20JavaScript" alt="Typing SVG" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="center">I'm a 12th-grade student with a passion for web development and technology. I enjoy learning new coding skills and building responsive, user-friendly websites. My goal is to grow as a developer and create impactful digital experiences.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soon) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daiwikpriyaranj) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@soon) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soon) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daiwikmp09@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](soon)
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=3&alignment=center&bgSolidColor=FF6B6B&bgStartColor=545454&bgEndColor=FFFFFF&bgGradientDirection=horizontal" alt="Divider" />
+</div>
+
+<h2 align="center">What I'm Learning</h2>
+
+🔭 Currently working on: Personal Portfolio
+
+🌱 Currently learning: JavaScript, React, TypeScript
+
+🤔 Exploring: AI Engineering
+
+⚡ Fun fact: My browser usually has 20+ tabs open while I'm coding.
+
+
+<h2 align="center">Proficent Tools</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,github,vscode,mysql&perline=9&theme=dark" />
+</div>
+
+<h2 align="center">Currently Learning</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,js&perline=6&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/divider?bgType=gradient&thickness=3&alignment=center&bgSolidColor=FF6B6B&bgStartColor=404040&bgEndColor=FFFFFF&bgGradientDirection=horizontal" alt="Divider" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-maker.vercel.app/api/quotes?theme=tokyonight&quote=Education+is+the+passport+to+the+future%2C+for+tomorrow+belongs+to+those+who+prepare+for+it+today.&author=Malcolm+X&textAlign=center&authorAlign=center" alt="Quote" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=daiwikpriyaranj&color=red&style=flat&label=Profile%20Views" alt="Profile Views" />
+</div>
+
+![MADE WITH](https://img.shields.io/badge/MADE%20WITH-LOVE-red?style=for-the-badge)
