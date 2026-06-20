@@ -22,9 +22,13 @@
 <h2 align="center">About Me!</h2>
 
 Age - 17 
+
 Nationality - Indian 🇮🇳
+
 Aspiration - IITian & Web Developer
+
 Hobbies - Football & Coding
+
 Fun Fact - I'm a Mohammed Salah Glazer & Liverpool Fan
 
 <h2 align="center">What I'm Learning</h2>
