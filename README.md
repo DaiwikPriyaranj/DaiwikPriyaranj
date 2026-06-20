@@ -40,25 +40,24 @@
 
 <h2 align="center">About Me!</h2>
 
-Age - 17 
-
-Nationality - Indian 🇮🇳
-
-Aspiration - IITian & Web Developer
-
-Hobbies - Football & Coding
-
-Fun Fact - I'm a Mohammed Salah Glazer & Liverpool Fan
-
+```js
+const daiwik = {
+  name: "Daiwik Priyaranj",
+  age: 17,
+  country: "India 🇮🇳",
+  role: "12th Grade Student",
+  passions: ["Web Development", "UI Design", "Football ⚽"],
+  goal: "IIT + Full Stack Developer",
+  club: "Liverpool ❤️",
+};
+```
 <h2 align="center">What I'm Learning</h2>
 
-🔭 Currently working on: Personal Portfolio
-
-🌱 Currently learning: JavaScript, React, TypeScript
-
-🤔 Exploring: AI Engineering
-
-⚡ Fun fact: My browser usually has 20+ tabs open while I'm coding.
+const learning = {
+  core: ["JavaScript", "React", "TypeScript"],
+  exploring: ["AI Engineering 🤖", "System Design"],
+  tools: ["VS Code", "Git", "GitHub"],
+};
 
 
 <h2 align="center">Proficent Tools</h2>
